@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-14T03:30:24.667Z</updated>
+  <updated>2022-11-15T13:02:16.013Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>双创实践课作业提交</title>
+    <link href="http://example.com/2022/11/15/Schoolwork_submit/"/>
+    <id>http://example.com/2022/11/15/Schoolwork_submit/</id>
+    <published>2022-11-14T16:00:00.000Z</published>
+    <updated>2022-11-15T13:02:16.013Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><p>32位MD5加密:7d22622a715dc7668628157bf5ecaa57</p><h2 id="作业简介"><a href="#作业简介" class="headerlink" title="作业简介"></a><strong>作业简介</strong></h2><p>得益于老师的讲解，我在理解了博客部署的本地与远端github的关系，在此基础上，参照各种博客搭建教程，用时三天左右，成功搭建了自己的博客，并使用其他大佬的框架，自定义了自己的博客主题。<br>其中，我使用了hexo-async主题；购买了阿里云的域名：kkjiang.cc(原因时后缀刚好是我名字第二个字的首字母)，然后，钱包-29￥。</p><h2 id="感悟"><a href="#感悟" class="headerlink" title="感悟"></a><strong>感悟</strong></h2><p>搭完博客，我突然发现，整个网页，包括域名，都是自己制作的，一种自豪感油然而生。这门课的意义不只在于让我们掌握搭建博客的知识，更多的，我认为是在这个过程中锻炼了解决问题的能力，合作的能力，坚持不懈不放弃的能力(我曾多次删掉整个Blog文件，从头再来TT).(还有就是注册了全球最大的同性交友网站：github   绝了)</p><h2 id="小网站游览指南"><a href="#小网站游览指南" class="headerlink" title="小网站游览指南"></a><strong>小网站游览指南</strong></h2><p>顶部导航栏每一个模块都有内容哦，个人资料也有较丰富，文章都有目录，最重要的，文章底部有打赏功能hiahiahia~</p><blockquote><p><em><strong>最后，</strong></em></p><p><em><strong>由于我还是名大一菜鸡，文章较少，较简单，见笑了。</strong></em></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h2&gt;&lt;p&gt;32位MD5加密:7d22622a715dc7668628157bf5ecaa57&lt;/p&gt;
+&lt;h2 id=&quot;作业简介&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Mini-movie of my dorm/宿舍微电影作品</title>
